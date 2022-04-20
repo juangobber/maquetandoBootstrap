@@ -1,0 +1,25 @@
+
+.navbar-brand, h1{
+    font-family: 'Orelega One', cursive;
+}
+.alto-8{
+    height: 8rem;
+}
+
+
+
+footer{
+    width: 100%;
+    background-color:#619aad ;
+    height: 100px;
+    display: flex;
+    padding: 3rem;
+    justify-content: center;
+}
+ .bi-facebook, .bi-instagram, .bi-whatsapp{
+     color: whitesmoke;
+ }
+
+ .alto-formulario {
+     height: 15rem;
+ }
